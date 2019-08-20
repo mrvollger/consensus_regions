@@ -1,0 +1,908 @@
+chr4 9149327 9156428 relocation inconsistency = 169401
+chr4 9325845 9450988 relocation inconsistency = 24408
+chr4 9475397 10209636 relocation inconsistency = 23307
+chr4 32839301 34778263 relocation inconsistency = 49058
+chr1 165892989 169252043 relocation inconsistency = 21901
+chr3 130088185 146667403 relocation inconsistency = 42608
+chr3 125763601 130045576 translocation
+chr12 8393430 8396326 translocation
+chr3 113032476 125766895 relocation inconsistency = 8199
+chr3 112160280 113024276 relocation inconsistency = -9591
+chr8 127521585 128749847 translocation
+chr3 111555239 111556212 translocation
+chr12 17656044 17656736 translocation
+chr8 85802294 93654296 relocation inconsistency = 159794
+chr8 84962073 85642499 relocation inconsistency = 9001
+chr8 84952553 84953062 inversion
+chr8 84952509 84953046 relocation inconsistency = -9569
+chr8 45943862 48174023 relocation inconsistency = 2005862
+chrX 135809368 137315539 relocation inconsistency = 43351
+chrX 135725992 135748588 relocation inconsistency = -8737
+chrX 120974638 122741686 relocation inconsistency = 95256
+chrX 116595567 120879381 relocation inconsistency = 33828
+chrY 6177341 6233527 translocation
+chrX 92425095 93061135 translocation
+chrY 5466386 5536210 translocation
+chrX 91918756 92352305 translocation
+chrY 4844598 5142255 translocation
+chrX 91603443 91605004 translocation
+chrY 4607403 4844685 translocation
+chrX 90095778 90950615 translocation
+chrY 3390565 3665865 translocation
+chrX 89714832 89742813 translocation
+chr2 32868131 34470762 relocation inconsistency = 40729
+chr1 73129314 75377083 relocation inconsistency = -82505579
+chr1 155627634 155634892 relocation inconsistency = 82497368
+chr1 72346158 73130265 relocation inconsistency = 45516
+chr1 26646432 29552232 inversion
+chr1 26641623 26646431 inversion
+chr1 19061418 26641622 translocation
+chr21 43336012 43337246 translocation
+chr5 51925611 64470873 inversion
+chr5 64470883 64477139 inversion
+chr13 82598071 84345473 translocation
+chr7 102803649 102805684 translocation
+chr3 167045756 167046808 translocation
+chr13 84707450 86202875 relocation inconsistency = 49012
+chr13 111341262 111703855 relocation inconsistency = 85261
+chr13 111789117 111793420 translocation
+chr5 129146336 129147181 translocation
+chr13 113436559 113672557 relocation inconsistency = 49288
+chr18 77681154 78229371 relocation inconsistency = 240580
+chr18 72966530 77440554 translocation
+chr14 87562419 87563516 translocation
+chr18 67453985 68535095 relocation inconsistency = -20350
+chr18 50449245 51423423 translocation
+chr6 106228876 106235482 translocation
+chr18 47019913 47600556 relocation inconsistency = -11826
+chr18 47019918 47031593 relocation inconsistency = -11831
+chr18 47023453 47031314 relocation inconsistency = 53592
+chr18 20923332 22550728 relocation inconsistency = 91816
+chr18 20815248 20824903 inversion
+chr10 37111122 38270842 inversion
+chr10 37105150 37111121 inversion
+chr10 27316864 37105149 relocation inconsistency = 744170
+chr10 26591396 26593170 translocation
+chrY 16197437 16197989 translocation
+chr10 27330253 27338165 relocation inconsistency = 16507
+chr10 26893470 27312249 translocation
+chr5 156658674 156665917 translocation
+chr19 43258050 43679788 relocation inconsistency = 63862
+chr19 43127049 43194187 relocation inconsistency = 155269
+chr19 38788125 39904050 inversion
+chr19 38774675 38788025 inversion
+chr6 69567140 76729139 relocation inconsistency = 21751
+chr6 76750891 79375188 translocation
+chr7 54419371 54420575 translocation
+chr2 202503805 202504616 translocation
+chr6 94031695 95020790 translocation
+chr14 82675497 82676174 translocation
+chr1 224039255 228556410 relocation inconsistency = 51954
+chr14 73555732 79257615 relocation inconsistency = 28024
+chr14 60611660 65791574 inversion
+chr14 60606119 60611659 inversion
+chr14 34555247 35947909 relocation inconsistency = -7202
+chr14 34547862 34555246 inversion
+chr7 100971207 100972378 inversion
+chr7 100973113 100976115 relocation inconsistency = 14975
+chr7 100956299 100957059 relocation inconsistency = -25601
+chr12 122719941 123443530 relocation inconsistency = 13426
+chr12 17855573 21977454 inversion
+chr12 17774390 17855597 inversion
+chr12 10449645 11055075 relocation inconsistency = 15450
+chr12 9579441 10434194 translocation
+chr9 101682446 113074476 relocation inconsistency = 16330
+chr9 118633942 123979102 inversion
+chr9 123979104 123991042 inversion
+chr9 132950728 133060176 relocation inconsistency = 20476
+chr9 135096115 137327972 relocation inconsistency = -7059
+chr9 138018371 138125045 relocation inconsistency = 14183
+chr16 32385635 32388071 translocation
+chr11 3457548 3480412 translocation
+chr16 33952589 33958610 translocation
+chr11 61246565 62010681 relocation inconsistency = 37661
+chr11 56697748 58050631 relocation inconsistency = -11024
+chr11 56375633 56708338 relocation inconsistency = -7549
+chr11 54778140 54926201 relocation inconsistency = 21804
+chr10 122617559 123292210 relocation inconsistency = 8119
+chr12 40504829 41844268 relocation inconsistency = -12446
+chr12 37973022 40505419 relocation inconsistency = -8157
+chr4 154157044 155349306 translocation
+chr3 170936420 170939078 translocation
+chr2 61667870 73800736 relocation inconsistency = 9785
+chr2 240688967 241896875 relocation inconsistency = -13049
+chr2 240685790 240688980 inversion
+chr2 166890075 168871360 relocation inconsistency = 103170589
+chr2 63706916 63708696 relocation inconsistency = 105158413
+chr11 7813729 8818116 translocation
+chr1 98877873 98881198 translocation
+chr11 4952102 7113547 relocation inconsistency = 8354
+chr11 4332058 4943747 relocation inconsistency = 96778
+chr15 40050839 43623158 relocation inconsistency = 99782
+chr16 74556228 75206200 inversion
+chr16 75206211 75222758 inversion
+chrX 108775060 113019779 relocation inconsistency = -9594
+chrX 104082053 108277196 translocation
+chr1 166239984 166242381 translocation
+chrX 103969083 104049428 relocation inconsistency = -20352
+chrX 3898080 6219008 relocation inconsistency = 76811
+chr11 70803362 70955696 relocation inconsistency = 96385
+chr13 57147995 63785637 relocation inconsistency = -13864
+chr21 43262797 44419575 relocation inconsistency = 45083
+chr21 40033182 43212461 inversion
+chr21 40028843 40033181 inversion
+chr9 42237455 42242739 relocation inconsistency = 24695924
+chr7 38244715 38339874 relocation inconsistency = 8603
+chr6 167641394 168379870 relocation inconsistency = 49416
+chr6 166285979 166997825 relocation inconsistency = -11198
+chr6 160785592 166285511 relocation inconsistency = 7359376
+chr6 153428516 153431104 relocation inconsistency = 7204192
+chr6 160648530 160785696 relocation inconsistency = 11087
+chr11 3338484 3446878 relocation inconsistency = 45817
+chr11 1939861 3292666 relocation inconsistency = 22820
+chr11 1894043 1915700 inversion
+chr11 1915726 1939667 relocation inconsistency = 21678
+chr5 106904112 114990423 relocation inconsistency = 9671
+chr12 76122029 86847817 inversion
+chr12 86847818 86857789 inversion
+chr7 144353393 149891351 relocation inconsistency = 98600
+chr20 1603702 6045368 relocation inconsistency = 33008
+chr20 63841 819266 translocation
+chr19 75654 76750 translocation
+chr5 33348679 33351291 translocation
+chr1 207372292 207548118 relocation inconsistency = 18572
+chr12 8439627 8442104 relocation inconsistency = 22616
+chr17 38505185 43232894 relocation inconsistency = 47137
+chr17 43281520 43323740 inversion
+chr14 24026251 27752518 relocation inconsistency = 42760
+chr3 187424420 188636933 inversion
+chr3 187418148 187424422 inversion
+chr4 68622242 69257208 relocation inconsistency = 117301
+chr4 63288764 68203090 relocation inconsistency = 20330
+chr4 58921382 63268433 relocation inconsistency = 41983
+chr5 156192855 164238645 translocation
+chr2 83773012 83774312 translocation
+chr5 161074095 161075574 relocation inconsistency = 4881200
+chr16 28471722 28602635 relocation inconsistency = 12994
+chr19 8896565 15673890 relocation inconsistency = -14794
+chr19 8787433 8896593 relocation inconsistency = 19059
+chr19 8286856 8768373 relocation inconsistency = 14856
+chr19 7450343 7451101 relocation inconsistency = -15506
+chr7 143196815 143588932 relocation inconsistency = 69065
+chr7 142746722 143127749 relocation inconsistency = -21373
+chr7 142506481 142510139 relocation inconsistency = -20021
+chr7 142342133 142343273 relocation inconsistency = -10551
+chrY 20159829 20160515 relocation inconsistency = -197915
+chrY 20336833 20351043 relocation inconsistency = 129082
+chrY 20110262 20207750 relocation inconsistency = 49446
+chr8 1406402 2232597 relocation inconsistency = 13389
+chr5 28932749 29069210 relocation inconsistency = -8880
+chr11 78679328 87978202 relocation inconsistency = 23685
+chr17 77103687 81742542 relocation inconsistency = 49653
+chr17 81799134 82586309 relocation inconsistency = -9951
+chrX 52789225 52920138 relocation inconsistency = -38280
+chrX 52920140 52935675 inversion
+chrX 56776633 56778485 relocation inconsistency = -10804
+chr14 16812560 16823785 relocation inconsistency = 347236
+chr14 16446651 16448726 translocation
+chr22 13698321 13707424 translocation
+chr2 94177431 94181364 translocation
+chr11 92026892 92032908 translocation
+chr2 132243933 132246395 translocation
+chr12 31107788 33232229 relocation inconsistency = 13195
+chr12 33245425 34718848 relocation inconsistency = 55391
+chr12 34774240 34795226 relocation inconsistency = -1722711
+chr12 36478486 36496950 relocation inconsistency = 1265497
+chr7 61007561 61014647 translocation
+chr10 38920080 38956097 translocation
+chr21 7940670 7949252 translocation
+chr14 16096631 16105354 translocation
+chr21 7957847 7960775 translocation
+chr22 12994034 13011653 translocation
+chr21 7994381 7996204 translocation
+chr14 16133341 16140527 translocation
+chr11 48861164 48923369 relocation inconsistency = -8781
+chr11 48311895 48312622 translocation
+chr22 22311299 23510457 translocation
+chr19 41036050 41037073 translocation
+chr9 129442930 129444290 translocation
+chrX 72733184 72734157 translocation
+chr2 115440484 115441133 translocation
+chr9 129425302 129428789 translocation
+chr19 41036050 41037073 translocation
+chr22 23510406 23931955 relocation inconsistency = 37153
+chr7 70973894 72605578 inversion
+chr7 70961200 70973886 inversion
+chr17 21774243 21795850 relocation inconsistency = 18236
+chr17 21814104 21825818 translocation
+chr7 63009767 63016520 relocation inconsistency = 27080839
+chr7 35926178 35928927 relocation inconsistency = -13084
+chr7 35925876 35928973 relocation inconsistency = 27080829
+chr7 63009803 63016520 translocation
+chr15 82527449 84169266 relocation inconsistency = 192990
+chrX 50278965 50761807 relocation inconsistency = 46294
+chrX 49564890 50228964 relocation inconsistency = 248332
+chrX 48399120 49018696 relocation inconsistency = -29311
+chrX 48396306 48399119 inversion
+chrX 37285838 40048042 relocation inconsistency = 193058
+chr1 108471630 109685191 relocation inconsistency = 18454
+chr1 109703646 110120576 translocation
+chr15 45462118 45463587 translocation
+chr1 2752121 3016496 relocation inconsistency = 49547
+chr1 2664735 2665289 relocation inconsistency = -7710
+chr1 2665482 2665982 relocation inconsistency = -117986
+chr1 2748847 2749398 relocation inconsistency = 88305
+chr1 2657155 2657665 relocation inconsistency = -31995
+chr1 2674633 2675273 relocation inconsistency = -7807
+chr1 1716262 1929369 relocation inconsistency = 67156
+chr14 105772392 105864632 relocation inconsistency = 21398
+chr14 105886036 106332608 relocation inconsistency = 25880
+chr17 27212232 30621881 inversion
+chrX 101611600 102199605 inversion
+chrX 101602194 101611599 inversion
+chr20 28557054 28560231 relocation inconsistency = -1329171
+chr9 63816784 63826932 relocation inconsistency = 965211
+chr9 62798839 62851572 translocation
+chr4 45012895 45014438 translocation
+chr9 63755322 63768476 relocation inconsistency = 716725
+chr9 64485203 64491661 translocation
+chr12 42083371 42085939 translocation
+chr3 77778851 77788795 translocation
+chr15 20815690 20820994 translocation
+chr14 19027806 19031119 translocation
+chr22 22288786 22290284 translocation
+chr21 13984111 13985463 relocation inconsistency = 3839125
+chr21 10128449 10140629 translocation
+chr9 41239926 41241991 relocation inconsistency = 21572092
+chr9 62814085 62818563 inversion
+chr5 95212568 99393160 translocation
+chr13 41483970 41484788 translocation
+chr1 148295708 148440594 relocation inconsistency = -10626
+chr1 148288483 148295707 inversion
+chr6 61080829 61322771 translocation
+chr12 68991115 68997209 translocation
+chr6 61435021 61437349 translocation
+chr1 125059289 125062432 translocation
+chr12 127094609 127100296 translocation
+chr6 61371373 61427678 relocation inconsistency = -106077
+chr6 61322878 61328270 relocation inconsistency = 103870
+chr17 489113 490395 relocation inconsistency = 37624
+chr17 116854 207229 relocation inconsistency = -16737
+chr19 52920969 53013819 relocation inconsistency = 35160
+chr19 53048980 54753597 relocation inconsistency = 95539
+chr1 247363286 248404245 relocation inconsistency = -8851
+chr1 223608936 223902493 relocation inconsistency = 49167
+chr10 38524823 38529907 relocation inconsistency = -8445
+chr10 38526801 38529907 relocation inconsistency = 30781
+chr9 68415359 70701801 relocation inconsistency = 17993
+chr6 31042319 31311230 relocation inconsistency = 9664
+chr6 31320935 32013273 relocation inconsistency = 32854
+chr6 32487372 32490660 translocation
+chr2 147311469 147314959 translocation
+chr9 22687753 22688417 translocation
+chr6 32545270 32546702 relocation inconsistency = 26051
+chr6 32577291 32578444 translocation
+chr10 32585385 32586220 translocation
+chrX 147279105 149538110 relocation inconsistency = -8088
+chrX 144475607 145340559 relocation inconsistency = 46379
+chr16 458459 1238837 relocation inconsistency = -9653
+chr16 1238838 1247503 inversion
+chr1 152616745 155188631 relocation inconsistency = 32760
+chr1 149850294 152220969 relocation inconsistency = -15540
+chr2 132247646 132362376 translocation
+chr8 7022210 7172737 relocation inconsistency = 19094
+chr7 4042666 4582425 relocation inconsistency = 8504
+chr5 46592178 46593464 relocation inconsistency = 22375
+chr5 46631412 46632280 relocation inconsistency = 195511
+chr4 8816478 9115309 relocation inconsistency = 18271
+chr19 25091778 25094899 relocation inconsistency = 2145975
+chr19 32729496 34392655 relocation inconsistency = -16894
+chr19 35174897 35358307 relocation inconsistency = 12464
+chr12 59550322 63644877 relocation inconsistency = 11102
+chr12 55333432 59539213 translocation
+chr1 155627633 155634877 translocation
+chr20 29565354 29615523 relocation inconsistency = 703288
+chr20 30318812 30321314 relocation inconsistency = 755841
+chr20 29290325 29315342 translocation
+chr22 11239593 11242855 translocation
+chr14 16074876 16075921 translocation
+chr20 29204769 29264428 relocation inconsistency = 624469
+chrX 113048866 114281198 relocation inconsistency = 44359
+chrX 115309949 115725553 relocation inconsistency = 117990
+chr5 178040445 178585741 relocation inconsistency = -9277
+chr5 178756119 179637367 inversion
+chr5 179637372 179655175 inversion
+chr22 15533116 15627031 translocation
+chrY 20280879 21021692 relocation inconsistency = -15957
+chrY 21011937 21053790 relocation inconsistency = 9954
+chrY 2134869 2320596 relocation inconsistency = 185523
+chr21 8986610 9032671 relocation inconsistency = 734319
+chr21 8171657 8220748 relocation inconsistency = 478681
+chr21 7550891 7692975 relocation inconsistency = 1214006
+chr21 6331842 6336884 relocation inconsistency = -45417
+chr21 6252545 6377258 relocation inconsistency = -768287
+chr21 5608972 5617438 translocation
+chr4 63179628 63180180 translocation
+chr21 7128828 7135159 translocation
+chr8 87624839 87630644 translocation
+chr2 132360820 132361982 translocation
+chr7 150263792 150305085 relocation inconsistency = 3400532
+chr9 60518559 60559497 relocation inconsistency = 19602608
+chr2 94145085 94157109 relocation inconsistency = -16653
+chr2 94140562 94178199 relocation inconsistency = 11102
+chrY 23062220 23158715 relocation inconsistency = 1662815
+chr1 124857081 124893966 relocation inconsistency = 38865
+chr9 40843089 40919651 relocation inconsistency = -24130372
+chr15 21258355 21337724 relocation inconsistency = 569056
+chr22 10542682 10563857 translocation
+chr18 15407140 15410896 translocation
+chr22 16054363 16064768 translocation
+chr21 12975297 12988068 translocation
+chr2 94515408 94520852 translocation
+chr17 21659782 21684303 relocation inconsistency = 357758
+chr17 22042062 22049848 relocation inconsistency = 388697
+chr1 121721626 121740196 relocation inconsistency = 102785
+chrX 62578419 62582196 translocation
+chr20 28834202 28843357 relocation inconsistency = 332301
+chr20 29175659 29176340 relocation inconsistency = -310750
+chr20 28869373 28870397 translocation
+chr21 10759569 10767577 relocation inconsistency = 3486054
+chr21 7263555 7271686 translocation
+chr20 28898170 28910846 translocation
+chr7 60882229 61117844 relocation inconsistency = 281224
+chr21 8861399 8866471 translocation
+chr21 9035822 9043035 translocation
+chr5 181467490 181470207 translocation
+chr15 17080526 17081437 translocation
+chr20 28790159 28843394 relocation inconsistency = 284931
+chr20 29165828 29174435 relocation inconsistency = -312533
+chr20 28923523 28954524 relocation inconsistency = 56472
+chr17 22100503 22382152 relocation inconsistency = 25254
+chrY 9553255 9631082 relocation inconsistency = 149636
+chrY 9107609 9111861 relocation inconsistency = 45098
+chr9 42386629 42454269 relocation inconsistency = 24289797
+chr22 11066476 11068987 relocation inconsistency = 285004
+chrY 11327003 11327549 relocation inconsistency = 7867
+chr7 62234906 62239827 relocation inconsistency = 412556
+chr20 26578702 26585279 relocation inconsistency = 192469
+chr11 49728197 50115265 inversion
+chr11 49715001 49728196 inversion
+chrX 154646424 155336818 inversion
+chrX 154569699 154613096 relocation inconsistency = -21629
+chrX 154277394 154591327 relocation inconsistency = 111375
+chr22 11461510 11463464 translocation
+chrY 56846769 56860436 relocation inconsistency = 9754
+chrY 56825752 56836995 translocation
+chr2 97137582 97156203 relocation inconsistency = 1191330
+chr2 95927377 95946251 translocation
+chr13 18179525 18180063 translocation
+chr16 34912152 36260370 relocation inconsistency = -188448
+chr16 36071926 36077948 relocation inconsistency = 234800
+chr16 36311161 36320810 relocation inconsistency = -7819
+chr16 36319487 36326196 relocation inconsistency = -1935169
+chr9 43178540 43180858 translocation
+chrY 10625761 10626866 translocation
+chr15 17078185 17082667 translocation
+chr22 12994039 12994790 translocation
+chr21 10808303 10814559 translocation
+chr15 17039292 17049133 translocation
+chr14 16134181 16136115 translocation
+chr21 7274631 7299193 translocation
+chr20 28807496 28810750 translocation
+chr21 10757444 10758053 translocation
+chr22 12521264 12527217 translocation
+chr15 17485750 17487820 relocation inconsistency = -546341
+chr15 17999078 18032090 relocation inconsistency = -307186
+chr15 18295664 18306263 translocation
+chr7 65259163 65512547 translocation
+chr3 186863446 186864502 translocation
+chr2 37963329 37963992 translocation
+chr22 16135896 16279672 translocation
+chr15 19795160 19797797 translocation
+chr22 16017949 16027522 translocation
+chr2 94544340 94549057 translocation
+chr22 16337600 16342445 translocation
+chr16 34664613 34671669 translocation
+chr7 62296880 62301971 translocation
+chr2 90334623 90381133 translocation
+chr16 34693127 34703893 translocation
+chr7 77018809 77020461 relocation inconsistency = 503352
+chr2 89185908 89236176 relocation inconsistency = 759889
+chr9 43324750 43325300 translocation
+chr20 29853882 29861643 translocation
+chrY 10255288 10256349 relocation inconsistency = 175232
+chrY 10075833 10080055 translocation
+chr7 57896124 57897812 translocation
+chrX 77244271 77250292 translocation
+chr2 208865036 208865573 translocation
+chr16 35991497 35992196 translocation
+chr12 37694002 37699491 translocation
+chr20 28842188 28843387 relocation inconsistency = 329909
+chr20 29173383 29178613 relocation inconsistency = -309936
+chr20 28870811 28873435 translocation
+chr22 12489163 12490933 translocation
+chr20 28898594 28906577 translocation
+chr21 7230504 7252102 translocation
+chr13 52486812 52502264 relocation inconsistency = 176518
+chr12 37651569 37654027 translocation
+chr20 28802903 28809471 translocation
+chr21 10768380 10781129 translocation
+chr12 37727969 37733637 translocation
+chr15 17499381 17505561 translocation
+chr21 10745991 10756894 relocation inconsistency = 11787
+chr21 10768682 10770080 translocation
+chr22 12389180 12405075 translocation
+chr21 10785708 10791676 relocation inconsistency = 90031
+chr15 22056143 22301953 relocation inconsistency = 442591
+chr17 18419469 18568180 relocation inconsistency = 1671962
+chr7 140667195 140668902 translocation
+chr4 186362903 186363897 translocation
+chr20 30421259 30425127 translocation
+chr9 63816533 63823110 translocation
+chr8 7764956 7765987 translocation
+chr20 29773914 29775161 translocation
+chr11 16887360 16888854 translocation
+chr22 11301547 11309470 translocation
+chr1 878445 883192 translocation
+chr3 198122878 198124393 translocation
+chr20 29368734 29370937 translocation
+chr3 75662327 75708750 translocation
+chrX 52510824 52669280 relocation inconsistency = -30230
+chrX 52489203 52510671 relocation inconsistency = -13015
+chrX 52176975 52502217 relocation inconsistency = -36406
+chrX 52077121 52176974 inversion
+chrX 51700364 52077120 relocation inconsistency = -24865
+chrX 51692964 51700363 inversion
+chr1 108268225 108383701 relocation inconsistency = 32042
+chr9 64048339 64135013 translocation
+chr4 49205024 49244641 translocation
+chr21 8767454 8803762 relocation inconsistency = -565478
+chr17 62298463 62445244 relocation inconsistency = 2077238
+chr7 63481762 63765417 relocation inconsistency = 6663420
+chr9 43158845 43159435 relocation inconsistency = 21509079
+chr2 97315164 97393341 relocation inconsistency = 241418
+chr21 10324328 10360191 translocation
+chr2 131990313 132054466 translocation
+chr5 69629524 69654337 relocation inconsistency = 48145680
+chr15 17207029 17257640 relocation inconsistency = -248533
+chr6 60229935 60241856 translocation
+chr3 90677589 90679858 translocation
+chr6 60239738 60240238 translocation
+chr3 90657641 90678775 relocation inconsistency = -20346
+chr3 90659310 90659852 relocation inconsistency = 8273
+chr3 90672610 90676989 relocation inconsistency = -40064
+chr3 90650029 90665862 translocation
+chr6 60240007 60241749 translocation
+chr3 90516505 90532596 relocation inconsistency = 138625
+chr3 90671222 90675901 translocation
+chr12 63747182 63748110 translocation
+chr3 90540549 90542408 relocation inconsistency = 101539
+chr3 90652205 90652847 relocation inconsistency = 54393
+chr3 90713030 90717249 translocation
+chr10 129732570 129738579 translocation
+chr3 90707296 90709631 translocation
+chr6 60235565 60241754 translocation
+chr3 90645081 90648568 relocation inconsistency = 24104
+chr3 90673198 90680478 relocation inconsistency = -59033
+chr3 90621446 90622920 translocation
+chr6 120688742 120694762 translocation
+chr3 90552341 90554386 relocation inconsistency = -41934
+chr3 90517821 90518323 relocation inconsistency = 122673
+chr3 90665324 90669590 translocation
+chr12 17855571 17860753 translocation
+chr5 141229329 141230140 translocation
+chr1 81390098 81391586 translocation
+chr3 90620815 90624551 relocation inconsistency = -96028
+chr3 90534163 90539953 relocation inconsistency = 97576573
+chr3 188116583 188117521 translocation
+chrX 127250486 127256489 translocation
+chr3 90660634 90661210 translocation
+chr12 63747179 63748109 translocation
+chr3 90517167 90526128 relocation inconsistency = 123038
+chr3 90654757 90666065 relocation inconsistency = 27901
+chr3 90701586 90703548 relocation inconsistency = -47714
+chr3 90655835 90665191 relocation inconsistency = -136758
+chr3 90529026 90531987 relocation inconsistency = -592954
+chr3 89939083 89942663 relocation inconsistency = 723128
+chr20 30456078 30476943 translocation
+chr22 12414450 12422516 relocation inconsistency = 67773
+chr22 12332820 12346676 translocation
+chr21 12982318 12987203 translocation
+chr22 12368316 12371746 relocation inconsistency = 3638755
+chr22 16010800 16018850 translocation
+chr20 29860288 29864821 translocation
+chr21 7293030 7295979 translocation
+chr16 36037370 36042397 relocation inconsistency = -21042
+chr16 36054983 36058411 relocation inconsistency = 1845567
+chr16 34202513 34205675 translocation
+chr12 43227742 43228884 translocation
+chr3 22737737 22742602 translocation
+chr12 86766230 86770019 translocation
+chr22 16075750 16081108 translocation
+chr20 30995491 30998329 translocation
+chr11 48910600 48917776 translocation
+chr20 30998346 30999979 relocation inconsistency = 1292895
+chr20 29699534 29705136 relocation inconsistency = -1297676
+chr20 30997622 31000850 relocation inconsistency = 1277596
+chr20 29711677 29720025 relocation inconsistency = -1289832
+chr9 68304404 68327296 relocation inconsistency = 68200279
+chr15 20332077 20341376 relocation inconsistency = -12351
+chr15 20341301 20375394 relocation inconsistency = 8154
+chr15 23165411 23178848 relocation inconsistency = 5239244
+chr15 28418987 28509306 relocation inconsistency = -10945
+chr6 32543880 32570399 relocation inconsistency = -41835
+chr6 32528819 32531010 relocation inconsistency = -48063
+chr6 32482948 32485202 relocation inconsistency = 86057
+chrY 6724155 6745681 translocation
+chrX 89228359 89372628 translocation
+chr21 10987303 11020590 translocation
+chr2 97144820 97200454 relocation inconsistency = 11216
+chr17 64918921 64922392 relocation inconsistency = 18626738
+chr15 19561868 19566285 relocation inconsistency = -223377
+chr15 19342909 19348233 translocation
+chr16 34618353 34621233 translocation
+chr2 94496016 94583294 relocation inconsistency = -10635
+chr10 39230137 39255733 relocation inconsistency = 10714
+chr10 39266448 39376120 relocation inconsistency = -10429
+chr10 39577495 39582595 relocation inconsistency = -9834
+chr10 39582724 39585273 relocation inconsistency = -12545
+chr10 39572769 39580952 relocation inconsistency = 365674
+chr10 39946627 39956362 relocation inconsistency = 705622
+chr4 131663292 131725507 relocation inconsistency = 19919
+chr10 42094292 42243008 translocation
+chr3 75708770 75745117 translocation
+chr21 8778934 8797889 relocation inconsistency = 320540
+chr2 94654013 94662047 translocation
+chr6 32545911 32546606 relocation inconsistency = -34265
+chr6 32515603 32526034 translocation
+chr15 59808280 59809484 translocation
+chr5 80431761 80432373 translocation
+chr6 32586188 32590863 relocation inconsistency = -107575
+chr6 32492519 32493120 translocation
+chr12 80466829 80468026 translocation
+chr11 42875543 42878561 translocation
+chr6 32504724 32505674 relocation inconsistency = -21264
+chr6 32484944 32486915 relocation inconsistency = 86291
+chr6 32577277 32578380 translocation
+chrX 90193093 90195388 translocation
+chr4 97562805 97564517 translocation
+chr13 106778256 106780581 translocation
+chr6 32580310 32582476 relocation inconsistency = -49354
+chr6 32533441 32534362 relocation inconsistency = -49607
+chr6 32487594 32489507 translocation
+chr8 128759850 128763594 translocation
+chr5 57865369 57867228 translocation
+chr6 32489503 32493120 relocation inconsistency = 7480
+chr6 32503779 32506125 translocation
+chr2 178431414 178432256 relocation inconsistency = 108133925
+chr2 70296472 70297480 relocation inconsistency = 79017518
+chr2 149323328 149324809 translocation
+chr6 32585208 32589982 translocation
+chr2 75368901 75370504 translocation
+chr12 58021373 58023249 translocation
+chr6 32482948 32483479 relocation inconsistency = 118356232
+chr6 150853100 150853937 translocation
+chr1 246362906 246363882 translocation
+chr6 32590730 32645670 translocation
+chrX 136977147 136978683 translocation
+chr6 32750437 32751553 relocation inconsistency = -96895
+chr5 46433487 46435095 translocation
+chr15 49396006 49401997 translocation
+chr5 46924727 46925921 relocation inconsistency = -225335
+chr5 46703723 46704934 relocation inconsistency = -38045
+chr5 46666890 46669338 relocation inconsistency = 360037
+chr5 47029650 47030396 relocation inconsistency = 445958
+chr5 46581599 46582305 translocation
+chr16 34221162 34227786 translocation
+chr17 26586859 26589208 translocation
+chr20 28525592 28531642 translocation
+chr5 47033996 47036775 relocation inconsistency = 287803
+chr5 46739206 46744393 relocation inconsistency = -405225
+chr5 47141826 47142421 relocation inconsistency = 134584
+chr5 46968279 46991138 relocation inconsistency = 142335
+chr5 46823384 46825943 relocation inconsistency = 254116
+chr5 47097838 47106894 translocation
+chr8 65120651 65126650 translocation
+chr5 47090287 47092434 translocation
+chr10 39545089 39545687 translocation
+chr5 47085537 47087550 translocation
+chr10 39549135 39551298 translocation
+chr7 58013919 58019055 translocation
+chr8 115753174 115759166 translocation
+chr15 39420574 39426569 translocation
+chr20 30993736 30995910 translocation
+chr5 50118771 50131138 relocation inconsistency = 98289
+chr4 189717204 189738542 translocation
+chr21 9527144 9616911 translocation
+chr7 57545446 57556870 translocation
+chr13 63028412 63074889 translocation
+chr21 10714323 10716600 translocation
+chr20 26282285 26287205 translocation
+chr21 11093775 11113824 translocation
+chr20 29701583 29705574 translocation
+chr13 60709761 60715780 translocation
+chr20 29939160 29946893 relocation inconsistency = 29712
+chr20 29908718 29909447 relocation inconsistency = 7967
+chrY 21805282 21861601 translocation
+chr5 113619421 113622330 translocation
+chrY 9055180 9057529 relocation inconsistency = 12686691
+chrY 21750315 21764281 relocation inconsistency = 10772
+chr3 75708770 75733431 translocation
+chr19 49956109 49957650 translocation
+chrX 152835313 152841384 translocation
+chr20 30593332 30594543 translocation
+chr6 78646773 78650991 translocation
+chr10 133631557 133640482 translocation
+chr4 103188373 103190567 translocation
+chr1 43114528 43115686 translocation
+chr20 29443234 29448270 translocation
+chr9 63817427 63823609 translocation
+chr20 29452179 29474404 relocation inconsistency = -899381
+chr20 28575024 28625492 translocation
+chr14 106738813 106883333 relocation inconsistency = 46507
+chr9 41538073 41568841 translocation
+chrY 11314312 11318176 inversion
+chr2 91411014 91412854 translocation
+chr9 43319684 43320902 translocation
+chr2 92083379 92084589 translocation
+chr7 60939183 60981480 translocation
+chr16 34041388 34043455 translocation
+chr7 60956761 60983119 relocation inconsistency = 2868989
+chr7 58068575 58087771 translocation
+chr1 125150552 125151359 translocation
+chr20 28952309 28960302 translocation
+chr22 12353637 12361133 translocation
+chr21 5316801 5319595 relocation inconsistency = 1932542
+chr21 7252138 7261822 translocation
+chr8 101678843 101684079 translocation
+chr21 5333309 5339192 translocation
+chr22 12375458 12376422 translocation
+chr20 28868453 28875110 relocation inconsistency = 7244
+chr20 28859999 28861208 translocation
+chr21 5353386 5357108 translocation
+chr20 28797390 28801164 translocation
+chr9 33828 37351 translocation
+chr4 104440038 104442656 translocation
+chr21 12965809 13002162 translocation
+chr9 40863276 40866429 translocation
+chr13 17762683 17768777 relocation inconsistency = -312574
+chr17 26940850 26962492 translocation
+chr21 7971054 7973845 relocation inconsistency = 2962495
+chr21 10937154 10970344 relocation inconsistency = 5573323
+chr21 5356233 5363830 translocation
+chr2 91417306 91421543 translocation
+chr22 16319921 16323077 translocation
+chr2 90380908 90386586 relocation inconsistency = -1025424
+chr20 30420459 30422072 translocation
+chr9 63797673 63826959 translocation
+chr20 29807256 29815552 relocation inconsistency = 1032491
+chr13 18171249 18179114 translocation
+chr22 15963199 15971109 translocation
+chr2 234888453 234894412 translocation
+chr16 34612398 34618712 translocation
+chr11 53606237 53615350 relocation inconsistency = -797435
+chr11 54386703 54402076 relocation inconsistency = -157201
+chr11 54541394 54542769 relocation inconsistency = 3451180
+chr11 51082229 51083820 translocation
+chr17 26649676 26655294 translocation
+chr21 8777791 8803762 translocation
+chr15 19902624 19903444 translocation
+chr20 29527841 29531913 translocation
+chr16 32805649 32811450 translocation
+chr7 60952479 60991781 translocation
+chr10 133682827 133690422 translocation
+chr4 190176470 190180194 translocation
+chrY 11324468 11326664 inversion
+chrY 6262346 6530085 relocation inconsistency = 20291
+chr22 11627239 11631288 translocation
+chr20 29729000 29742543 translocation
+chr16 34183897 34187666 translocation
+chr2 42990344 42991941 translocation
+chr9 68275345 68278848 translocation
+chr20 30937828 30942428 relocation inconsistency = 2018939
+chr20 28886289 28889751 translocation
+chr8 136190210 136196215 translocation
+chr20 29851147 29856215 relocation inconsistency = 641991
+chr20 29206210 29208578 translocation
+chr18 15401945 15403494 translocation
+chr2 192835843 192836770 translocation
+chr19 24331008 24416445 translocation
+chr20 29259148 29264414 translocation
+chr5 50199050 50202701 translocation
+chr10 133762547 133764839 translocation
+chr16 33335931 33336594 translocation
+chr2 90300785 90301496 translocation
+chrY 863591 864816 translocation
+chr2 91494907 91495556 translocation
+chrX 987203 988362 relocation inconsistency = 8248
+chrX 1003526 1004145 relocation inconsistency = 8316
+chrX 1013293 1017828 translocation
+chr11 48840090 48841873 translocation
+chr20 53858949 53867826 translocation
+chr22 16534435 16561171 translocation
+chr20 29888560 29889307 relocation inconsistency = 28731
+chr20 29856868 29859793 relocation inconsistency = -14351
+chr20 29845443 29850227 translocation
+chr7 61281922 61284908 translocation
+chr21 5354887 5358868 translocation
+chr20 29212696 29231435 relocation inconsistency = 7055
+chr20 29238491 29250250 translocation
+chr16 34159063 34171157 translocation
+chr20 29261900 29264102 relocation inconsistency = 620549
+chr20 29884851 29888653 translocation
+chrY 10233403 10235332 translocation
+chr2 183849531 183855469 translocation
+chrY 10624416 10627133 translocation
+chr2 132258764 132270870 translocation
+chr21 8376684 8385834 relocation inconsistency = 3117762
+chr21 5246719 5252525 translocation
+chr21 5255405 5262752 relocation inconsistency = 1936775
+chr21 7199528 7229289 translocation
+chr18 19416342 19417097 relocation inconsistency = 1279387
+chr20 30662067 30676128 translocation
+chr22 12080852 12106825 relocation inconsistency = -678769
+chr1 16680842 16725518 relocation inconsistency = 129326820
+chr18 20639646 20641061 relocation inconsistency = 49505
+chr18 20571467 20582457 relocation inconsistency = 4783086
+chr17 45592741 45602081 relocation inconsistency = 651722
+chr17 46253804 46277790 relocation inconsistency = 18641130
+chr17 64918921 64932340 relocation inconsistency = 19331159
+chr17 26652245 26655249 translocation
+chrX 62535869 62537048 translocation
+chr20 29698079 29711435 translocation
+chr18 970861 976877 translocation
+chr3 90407886 90410370 translocation
+chr20 30134114 30152276 relocation inconsistency = 219168
+chrX 149722144 149910819 relocation inconsistency = -28255
+chrX 149681128 149722143 inversion
+chr10 133622628 133673783 relocation inconsistency = 62865
+chr7 143700805 143846500 relocation inconsistency = -10456
+chr10 133688073 133690457 translocation
+chrY 11332748 11334404 translocation
+chr2 90383606 90384494 relocation inconsistency = -18902
+chr21 10781579 10782676 translocation
+chr16 34204376 34206250 translocation
+chr10 39422841 39427953 translocation
+chr21 7288472 7296690 translocation
+chr20 28840140 28843394 relocation inconsistency = 16244
+chr20 28869767 28872312 translocation
+chr7 57880235 57885508 translocation
+chr1 145300193 145305503 relocation inconsistency = 3247646
+chr16 18342120 18372714 relocation inconsistency = 3410924
+chr5 47293691 47299553 relocation inconsistency = 2341863
+chr5 49646113 49646803 relocation inconsistency = 2454228
+chr13 18211701 18212551 translocation
+chr22 18204894 18205904 translocation
+chr21 10324328 10334869 relocation inconsistency = 232238
+chr9 41229379 41237752 relocation inconsistency = 22585258
+chr9 63823024 63826100 inversion
+chr9 63828081 63833510 relocation inconsistency = 22822074
+chr9 40981521 41006006 relocation inconsistency = 22875333
+chr21 10387040 10395105 relocation inconsistency = 35474
+chr20 28713082 28716125 relocation inconsistency = -245843
+chr20 28954935 28956749 translocation
+chr21 7208538 7221921 translocation
+chr22 12352793 12374980 translocation
+chrX 83059610 83065634 translocation
+chr21 5307700 5314534 translocation
+chr9 43179930 43183730 translocation
+chr21 7269757 7278001 translocation
+chr5 46611964 46613209 translocation
+chr19 27345291 27353703 relocation inconsistency = 13065
+chr19 27391982 27399334 translocation
+chr10 41840143 41841075 translocation
+chr8 2378457 2397989 relocation inconsistency = 70464
+chr5 49641832 49646791 relocation inconsistency = 13548
+chr5 49610791 49611718 relocation inconsistency = 9804
+chr15 17362031 17365901 translocation
+chr20 29193452 29195335 relocation inconsistency = 449689
+chr9 43385581 43386571 relocation inconsistency = 17187554
+chr9 60574126 60578424 relocation inconsistency = -7311
+chr9 60573072 60581152 relocation inconsistency = 17183856
+chr9 43382280 43388963 relocation inconsistency = 17233291
+chr9 60622255 60629095 relocation inconsistency = 8667
+chr7 61054419 61056043 relocation inconsistency = -1293166
+chr7 62339384 62341108 translocation
+chrY 10625805 10626866 translocation
+chr21 7958957 7966174 relocation inconsistency = 2809496
+chr21 10790735 10795910 translocation
+chr20 28930337 28935104 relocation inconsistency = -169222
+chr20 28765883 28775508 translocation
+chr22 12382041 12387184 translocation
+chr15 17007865 17026742 translocation
+chr20 28803514 28806130 translocation
+chr21 10763817 10785162 relocation inconsistency = 10498
+chr21 10749836 10750621 translocation
+chr3 195674883 195721879 relocation inconsistency = 252415
+chr2 91411239 91431132 relocation inconsistency = 1026102
+chr6 26712607 26734081 inversion
+chr21 8667903 8701961 translocation
+chrY 11474598 11483812 translocation
+chr20 30811899 30853485 translocation
+chr9 63817558 63823110 translocation
+chr12 73008728 73009697 translocation
+chr21 10162341 10169868 translocation
+chr10 39710803 39722108 relocation inconsistency = 168251
+chr1 143293179 143310889 translocation
+chr16 32812240 32826231 relocation inconsistency = 1975426
+chr16 34803708 34816236 translocation
+chr4 189296298 189297352 translocation
+chr7 62248569 62250033 relocation inconsistency = -427726
+chr1 714901 717215 translocation
+chr17 46277015 46291746 relocation inconsistency = 663194
+chr17 45585679 45613820 relocation inconsistency = 646988
+chr9 64073900 64074582 translocation
+chrY 11162074 11173379 translocation
+chr19 9679321 9680931 translocation
+chr21 9057704 9076662 translocation
+chr9 64045192 64058279 translocation
+chr1 248537324 248637059 relocation inconsistency = -53546
+chr1 248519266 248588406 relocation inconsistency = 59479
+chr14 106537812 106625866 relocation inconsistency = 673158
+chr14 105859089 105864635 relocation inconsistency = 85636
+chr20 28612558 28643635 relocation inconsistency = 64228
+chr21 9826247 9841740 relocation inconsistency = 15493
+chr4 49263611 49266810 relocation inconsistency = -26598
+chr19 24977505 24982915 relocation inconsistency = 59494
+chr19 25037050 25044710 translocation
+chr1 124566381 124572722 translocation
+chr19 27102576 27109161 translocation
+chr7 62378440 62384498 inversion
+chr7 62275023 62378439 inversion
+chr1 178315752 178317717 translocation
+chr22 10699946 10713053 translocation
+chr15 23322748 23362799 relocation inconsistency = 11361
+chr21 8672750 8676593 translocation
+chr4 136293512 136299547 translocation
+chr17 26775748 26777583 translocation
+chr20 25756130 25785397 relocation inconsistency = 4432155
+chr11 54418698 54422288 relocation inconsistency = -18581
+chr11 54404966 54405947 relocation inconsistency = -26269
+chr11 54380273 54380891 relocation inconsistency = -7509
+chr11 54373693 54375210 relocation inconsistency = 47777
+chr11 54423388 54424597 relocation inconsistency = -40608
+chr2 91783586 91800120 translocation
+chr16 32802022 32811585 translocation
+chr1 143510120 143523419 translocation
+chr16 33029079 33041619 translocation
+chr17 42972297 42974008 translocation
+chr7 60931347 60932655 translocation
+chr1 125147732 125157449 relocation inconsistency = -18391579
+chr5 47537596 47543221 relocation inconsistency = -52686
+chr5 47490536 47497075 relocation inconsistency = 621525
+chr5 48118601 48124053 relocation inconsistency = -762289
+chr2 90389861 90392236 relocation inconsistency = -13119
+chr8 12474932 12477756 translocation
+chr2 91422506 91431612 translocation
+chr11 58871676 58872347 translocation
+chr22 16380624 16384541 translocation
+chr9 40931342 40936479 relocation inconsistency = 19582220
+chr10 133687336 133688105 translocation
+chr18 106167 109253 translocation
+chr4 190081969 190082911 translocation
+chr19 24330416 24331024 translocation
+chr16 33491332 33491880 translocation
+chr2 92239980 92244294 relocation inconsistency = 634063
+chr2 92878625 92879195 relocation inconsistency = 1266322
+chr2 94145518 94159757 relocation inconsistency = -14409
+chr2 90388215 90388800 relocation inconsistency = 10749
+chr1 143244544 143245156 translocation
+chr4 49298411 49307637 translocation
+chrY 11564946 11566713 relocation inconsistency = -36824
+chrY 11535757 11537618 relocation inconsistency = -7541
+chr7 60923353 60925835 relocation inconsistency = -2869125
+chr22 11902010 11905565 relocation inconsistency = 80602
+chrY 11531237 11535630 relocation inconsistency = -31229
+chr2 134968281 134970593 translocation
+chr2 90383888 90384703 relocation inconsistency = -8427
+chr4 51422479 51426653 relocation inconsistency = 1710517
+chr4 49635371 49637530 relocation inconsistency = -22211
+chr5 17519737 17527315 inversion
+chr13 16867545 16871381 relocation inconsistency = 541274
+########################################
+Total Misassemblies:	 901
+Total relocations:	 411
+Total translocations:	 436
+Total inversions:	 54
+########################################
+

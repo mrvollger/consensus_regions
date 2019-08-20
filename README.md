@@ -1,6 +1,32 @@
 # consensus_regions
 
 
+
+# Snakemake (multiple comparisons)
+
+see `asm.urls.txt` for the configuration, and then execute with 
+```
+snakemake -j {threads}
+```
+and see `results/summary.txt` for the results. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Example of running one comparision, 
+
+
 ## generate alignments against hg38 
 ```
 minimap2 -t {threads} --secondary=no -a --eqx -Y -x asm20 -m 10000 -z 10000,50 -r 50000 --end-bonus=100 -O 5,56 -E 4,1 -B 5  {input.ref} {input.asm} | samtools view -F 260 -u - | samtools sort -m 8G -@ {threads} - > {output.bam}  
